@@ -8,4 +8,5 @@ var kittens = [
 
 function destructivelyAppendKitten(){
   kittens.push ("Ralph")
+  return kittens
 }
